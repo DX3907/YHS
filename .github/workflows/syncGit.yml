@@ -37,3 +37,5 @@ jobs:
           static_list: "JD_tencent_scf"
           dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
           dst_token: ${{ secrets.GITEE_TOKEN }}
+
+
